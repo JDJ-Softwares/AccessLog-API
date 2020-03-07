@@ -1,0 +1,23 @@
+{
+  "name": "accesslog-api",
+  "version": "1.0.0",
+  "description": "projeto de gerenciamento de acesso ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JDJ-Softwares/AccessLog-API.git"
+  },
+  "keywords": [
+    "nmp",
+    "node.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JDJ-Softwares/AccessLog-API/issues"
+  },
+  "homepage": "https://github.com/JDJ-Softwares/AccessLog-API#readme"
+}
